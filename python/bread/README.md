@@ -87,4 +87,12 @@ unsigned char butter2[] = "\x7f\x45\x4c\x46\x02\x01\x01\x00\x00\x00\
 
 </code>
 </pre>
+<br>
+What has happened is the program has just built a character array that is the exact replica of your input file.<br>
+Now you can access your input file using either butter1 or butter2 character arrays in your next c/c++ file that you include this out.h header in. <br>
+Handy for embedding pictures , audio , video or even other executables in executables <br>
+Note if one doesnt want both types of character arrays he can specify either short or long to only embed butter1 or butter2 in the out.h header. <br>
+Refer back to bread.py -h for the types of modes.
+<br>
+And always stay thirsty my friends!
 
