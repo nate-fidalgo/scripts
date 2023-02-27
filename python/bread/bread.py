@@ -13,6 +13,7 @@ For more info on how to use the program type:   python bread.py -h
 Written by Nate
 Questions , comments, bugs , improvements can be send to the email below
 No promises are made to respond in a timely fashion or even at all but all do my best to clear any issues.
+HelpDesk Email Address: devhelp-desk@outlook.com
 
 """
 import sys, getopt
