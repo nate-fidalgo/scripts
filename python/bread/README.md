@@ -11,7 +11,7 @@ Gives
 <br>
 <pre>
 <code>
-bread.py -i <inputfile&lt -o <outputfile&lt -m <mode&lt
+bread.py -i &lt inputfile &lt -o &lt outputfile &lt -m &lt mode&lt
 mode options:= both | short | long
 </code>
 </pre>
