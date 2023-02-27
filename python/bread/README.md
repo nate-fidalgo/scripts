@@ -94,5 +94,5 @@ Handy for embedding pictures , audio , video or even other executables in execut
 Note if one doesnt want both types of character arrays he can specify either short or long to only embed butter1 or butter2 in the out.h header. <br>
 Refer back to bread.py -h for the types of modes.
 <br>
-And always stay thirsty my friends!
+<b>And always stay thirsty my friends!<b>
 
