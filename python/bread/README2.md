@@ -1,4 +1,4 @@
-I neat way to add different sections to a pe or elf binary. Is to use some gnu extension keywords.
+A neat way to add different sections to a pe or elf binary. Is to use some gnu extension keywords.
 
 <pre>
 <code>
