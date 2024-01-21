@@ -10,8 +10,11 @@ Running mathgen for that above file gives
 ![out2](https://github.com/nate-fidalgo/scripts/assets/71114853/1e9c144b-ee41-4a1f-820d-c41dc9f2208d)
 
 Now you can easily take your svg files and the printed out imgs tags and embed them in a webpage just by upload/copy paste.
-No mathml required and sense they are in svg format they dont loose quality like a raster image. You can zoom in/out wont change quality.
+No mathml required and since they are in svg format they dont loose quality like a raster image. You can zoom in/out wont change quality.
 Also equally important is svg are very small size compared to raster images so there not bloaty for websites.
+
+Dont get me wrong mathml is great option to if you have a good editor for it and your browser supports it which most do now.
+
 
 
 
