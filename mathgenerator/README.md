@@ -15,6 +15,9 @@ Also equally important is svg are very small size compared to raster images so t
 
 Dont get me wrong mathml is great option to if you have a good editor for it and your browser supports it which most do now.
 
+But svg images is the tried and true way most site website would do it. Other benifits is it is supported by all browsers that support img tags 
+with svg sources. 
+
 
 
 
